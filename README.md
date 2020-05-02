@@ -1,10 +1,10 @@
 # NeurodiverseMe
 
-##background story 
+## background story 
 
 In this repository, we are sharing the session plan, session learnings and outcomes of the research we conducted to create the NeuroDiverseMe session, which was part of Mozfest's 2019 Neurodiversity space. By navigating the repo and the issue section, you'll come across useful resources if you intend to advocate and educate others about Neurodiversity inclusion in communities. Please feel free to get in touch if you have any questions. We are also attaching the session plan below for you to reuse and adapt according to your needs. 
 
-##NeurodiverseMe session plan 
+## NeurodiverseMe session plan 
 
 This is the remixable version of the session plan presented at Mozfest 2019. The plan was designed for a 60-minute session and can be easily be modified for groups of all sizes.
 
@@ -12,12 +12,12 @@ This session was directed to raise awareness about Neurodiversities and was desi
 
 The plan was created by session co-facilitators Natalia Norori and Isabella Sevilla and is licensed CC-BY 4.0. For inquiries please contact Natalia or Isabella.
 
-Session Goal
+### Session Goal
 Brainstorm ways to help neurodiverse individuals embrace what makes them different, and raise awareness on the positive qualities and perspectives they can bring to social development, communities, spaces, and events.
 
 Empower communities to promote safe spaces that uplift the participation of neurodiverse voices, helping them maximize their potential to be active change-makers.
 
-Session Description for participants
+### Session Description for participants
 Human neurodiversities should be celebrated, not treated as disorders. There are projects that have created code to make users experience what it feels like to be neurodivergent. However, most of these focus on the disadvantages without giving much emphasis to the positive qualities.
 
 During this session we'll present previously collected experiences of what it feels like to be neurodivergent in the modern era, shifting the focus from the negative and enhancing the upsides that make it special. We'll also ask mozfesters at the session to share their own stories if they feel comfortable doing so.
@@ -28,7 +28,7 @@ After analyzing the stories shared, we'll divide into smaller groups to brainsto
 
 participants will be encouraged to use their diverse skills to collaborate and create an interactive toolkit, inspired in the workshop dynamic, that highlights special qualities, and encourages communities to create safe, inclusive spaces that uplift neurodiverse voices in communities and events.
 
-Session Plan
+### Session Plan
 Before the session
 
 Review the session plan and get feedback
@@ -65,7 +65,7 @@ Briefly explain the dynamic of the session. Including the objectives.
 Discussion: Share your qualities (10 minutes) (optional)
 If participants are comfortable, we encourage you to invite them to break into small groups and share how their differences make them special, give more details about their accomplishment, and ways in which society and their organizations have helped the, highlight their neurodivergent qualities
 
-** Some questions to help you guide the session**
+###  Some questions to help you guide the session 
 
 What great things have you created? How have your neurodivergent qualities helped you create them?
 Lets talk about community building, How has being neurodiverse helped you help evolve your work environment, institution, project or community?
@@ -84,13 +84,13 @@ What’s the role of institutions, conferences, and spaces during in uplifting n
 
 Once participants are done, they will be able to share their learnings in a collective document that will serve as a prototype for a toolkit to assist communities to be more diverse, and take into account the needs of neurodivergent individuals.
 
-Synthesis (5 minutes)
+### Synthesis (5 minutes)
 
 Summarise the session, review what participants achieved, and identify any next steps.
 Share the session notes and resources
 Make sure participants have a way to reach out to you in the future.
 
-After the session
+### After the session
 Sharing is caring
 
 Share the session outcomes on your social media profile or with anyone who might be interested if you want!
