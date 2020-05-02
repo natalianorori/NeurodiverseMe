@@ -29,7 +29,8 @@ After analyzing the stories shared, we'll divide into smaller groups to brainsto
 participants will be encouraged to use their diverse skills to collaborate and create an interactive toolkit, inspired in the workshop dynamic, that highlights special qualities, and encourages communities to create safe, inclusive spaces that uplift neurodiverse voices in communities and events.
 
 ### Session Plan
-Before the session
+
+####Before the session
 
 Review the session plan and get feedback
 
@@ -88,13 +89,13 @@ Encourage participants to write recommendations to communities and spaces to hel
 
 Once participants are done, they will be able to share their learnings in a collective document that will serve as a prototype for a toolkit to assist communities to be more diverse, and take into account the needs of neurodivergent individuals.
 
-### Synthesis (5 minutes)
+#### Synthesis (5 minutes)
 
 - Summarise the session, review what participants achieved, and identify any next steps.
 - Share the session notes and resources
 - Make sure participants have a way to reach out to you in the future.
 
-### After the session
+#### After the session
 Sharing is caring
 
 Share the session outcomes on your social media profile or with anyone who might be interested if you want!
