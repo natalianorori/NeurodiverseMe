@@ -1,6 +1,6 @@
 # NeurodiverseMe
 
-## background story 
+## Background story 
 
 In this repository, we are sharing the session plan, session learnings and outcomes of the research we conducted to create the NeuroDiverseMe session, which was part of Mozfest's 2019 Neurodiversity space. By navigating the repo and the issue section, you'll come across useful resources if you intend to advocate and educate others about Neurodiversity inclusion in communities. Please feel free to get in touch if you have any questions. We are also attaching the session plan below for you to reuse and adapt according to your needs. 
 
