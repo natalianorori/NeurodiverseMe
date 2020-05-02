@@ -12,12 +12,12 @@ This session was directed to raise awareness about Neurodiversities and was desi
 
 The plan was created by session co-facilitators Natalia Norori and Isabella Sevilla and is licensed CC-BY 4.0. For inquiries please contact Natalia or Isabella.
 
-### Session Goal
+## Session Goal
 Brainstorm ways to help neurodiverse individuals embrace what makes them different, and raise awareness on the positive qualities and perspectives they can bring to social development, communities, spaces, and events.
 
 Empower communities to promote safe spaces that uplift the participation of neurodiverse voices, helping them maximize their potential to be active change-makers.
 
-### Session Description for participants
+## Session Description for participants
 Human neurodiversities should be celebrated, not treated as disorders. There are projects that have created code to make users experience what it feels like to be neurodivergent. However, most of these focus on the disadvantages without giving much emphasis to the positive qualities.
 
 During this session we'll present previously collected experiences of what it feels like to be neurodivergent in the modern era, shifting the focus from the negative and enhancing the upsides that make it special. We'll also ask mozfesters at the session to share their own stories if they feel comfortable doing so.
@@ -30,7 +30,7 @@ participants will be encouraged to use their diverse skills to collaborate and c
 
 ### Session Plan
 
-####Before the session
+#### Before the session
 
 Review the session plan and get feedback
 
